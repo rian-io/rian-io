@@ -11,15 +11,16 @@ Welcome to my GitHub profile! I'm a passionate developer interested in [your are
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: [List of languages, e.g., JavaScript, Python, Java, etc.]
-- **Frameworks & Libraries**: [List of frameworks and libraries, e.g., React, Node.js, Django, etc.]
-- **Tools**: [List of tools, e.g., Git, Docker, VS Code, etc.]
-- **Databases**: [List of databases, e.g., MySQL, MongoDB, PostgreSQL, etc.]
-- **Cloud Services**: [List of cloud services, e.g., AWS, Azure, Google Cloud, etc.]
+- **Programming Languages**: Java, Kotlin, C#, GDScript, Python, Swift
+- **Frameworks & Libraries**: Spring, Vue, Angular
+- **Tools**: Git, Docker, VS Code
+- **Databases**: MySQL, MongoDB, PostgreSQL, Oracle, SQL Server
+- **Cloud Services**: IBM Cloud
 
 ## 📈 GitHub Stats
 
 ![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rian-io&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rian-io&layout=compact&theme=radical)
 
 ## 🔭 Projects
