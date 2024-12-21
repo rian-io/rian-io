@@ -4,10 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in [your are
 
 ## 🚀 About Me
 
-- 🌐 Website: [Your Website](https://yourwebsite.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 Website: [Your Website](https://rianoliveira.dev)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rianoliveira)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 
 ## 🛠️ Technologies & Tools
 
