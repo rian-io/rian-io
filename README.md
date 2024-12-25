@@ -1,6 +1,6 @@
 # Hi there, I'm Rian! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer interested in [your areas of interest, e.g., web development, data science, machine learning, etc.]. I love working on interesting projects and contributing to open-source communities.
+Welcome to my GitHub profile! I'm a passionate developer interested in software architecture, app dev, AI and game devl. I love working on interesting projects and contributing to open-source communities.
 
 ## 🚀 About Me
 
