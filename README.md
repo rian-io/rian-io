@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in [your are
 
 ## 🚀 About Me
 
-- 🌐 Website: [My Website](https://rianoliveira.dev)
+- 🌐 Website: [rianoliveira.dev](https://rianoliveira.dev)
 - 💼 LinkedIn: [Get in Touch](https://www.linkedin.com/in/rianoliveira)
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
