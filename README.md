@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in software 
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Java, Kotlin, C#, GDScript, Python, Swift, TypeScript
+- **Programming Languages**: Java, Kotlin, TypeScript, Swift,
 - **Frameworks & Libraries**: Spring, Vue, Angular, SwiftUI
-- **Tools**: Git, Docker, IntelliJ, VS Code
+- **Tools**: Git, Docker
 - **Databases**: MySQL, MongoDB, PostgreSQL, Oracle, SQL Server
 - **Cloud Services**: IBM Cloud, Netlify
 
